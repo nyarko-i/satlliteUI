@@ -93,5 +93,3 @@ You can:
 ## 🧑‍💻 Author
 
 **Isaac Nyarko**
-
----
